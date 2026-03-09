@@ -30,8 +30,8 @@ const RETRYABLE_NETWORK_CODES = new Set([
   'FETCH_FAILED',
   'DOWNLOAD_TIMEOUT',
 ]);
-const DOWNLOAD_TIMEOUT_MS = 120_000;
-const FETCH_RETRY_TIMES = 3;
+const DOWNLOAD_TIMEOUT_MS = 30_000;
+const FETCH_RETRY_TIMES = 2;
 const FETCH_RETRY_INTERVAL_MS = 1_200;
 
 // ─── Banner ──────────────────────────────────────────────────

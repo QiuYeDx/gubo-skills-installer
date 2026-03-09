@@ -1,6 +1,6 @@
 {
   "name": "gubo-skills-installer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Gubo Skills 一键安装器 - 包含 Wafer Map 和 Common Legend 等 @guwave 组件使用指南",
   "type": "module",
   "bin": {
