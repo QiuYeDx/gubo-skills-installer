@@ -1,0 +1,35 @@
+{
+  "name": "@guwave/gubo-skills-installer",
+  "version": "1.0.0",
+  "description": "Gubo Skills 一键安装器 - 包含 Wafer Map 和 Common Legend 等 @guwave 组件使用指南",
+  "type": "module",
+  "bin": {
+    "gubo-skills-installer": "./bin/cli.mjs"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "gubo",
+    "guwave",
+    "skill",
+    "installer",
+    "wafer-map",
+    "common-legend",
+    "cursor",
+    "claude",
+    "codex",
+    "gemini"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/prompts": "^7.0.0",
+    "chalk": "^5.4.0",
+    "ora": "^8.1.0",
+    "adm-zip": "^0.5.16"
+  }
+}
