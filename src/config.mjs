@@ -4,17 +4,15 @@ const config = {
       name: 'wafer-map',
       displayName: 'Wafer Map Skill',
       description: '晶圆图渲染组件 @guwave/wafermap-v2 使用指南',
-      // TODO: 替换为实际的 zip 下载地址
-      assetUrl: 'https://example.com/placeholder/wafer-map.zip',
-      stripComponents: 0,
+      assetUrl: 'https://github.com/QiuYeDx/gubo-skills-installer/releases/download/v1.0.0/wafer-map.zip',
+      stripComponents: 1,
     },
     {
       name: 'common-legend',
       displayName: 'Common Legend Skill',
       description: '图例组件 @guwave/common-legend 使用指南',
-      // TODO: 替换为实际的 zip 下载地址
-      assetUrl: 'https://example.com/placeholder/common-legend.zip',
-      stripComponents: 0,
+      assetUrl: 'https://github.com/QiuYeDx/gubo-skills-installer/releases/download/v1.0.0/common-legend.zip',
+      stripComponents: 1,
     },
   ],
 };
