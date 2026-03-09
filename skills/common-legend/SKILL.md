@@ -1,6 +1,6 @@
 ---
 name: common-legend
-description: Guide for using @guwave/common-legend Vue3 component (with veaury for React) to render chart/wafer map legends. Use when creating, configuring, or integrating legend panels in React or Vue3 projects. Covers ColorBy legend, WaferMap legend, TrellisBy info, LineAndPoint info, and Dataset info groups. Triggers on: "common-legend", "图例", "legend", "CommonLegend", "ReactCommonLegend", "@guwave/common-legend", "ColorBy", "wafer legend", "晶圆图例", "veaury".
+description: 'Guide for using @guwave/common-legend Vue3 component (with veaury for React) to render chart/wafer map legends. Use when creating, configuring, or integrating legend panels in React or Vue3 projects. Covers ColorBy legend, WaferMap legend, TrellisBy info, LineAndPoint info, and Dataset info groups. Triggers on: "common-legend", "图例", "legend", "CommonLegend", "ReactCommonLegend", "@guwave/common-legend", "ColorBy", "wafer legend", "晶圆图例", "veaury".'
 ---
 
 # @guwave/common-legend 使用指南
