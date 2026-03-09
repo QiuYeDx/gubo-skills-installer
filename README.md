@@ -1,4 +1,4 @@
-# @guwave/gubo-skills-installer
+# gubo-skills-installer
 
 Gubo Skills 一键安装器 —— 通过 `npx` 快速将 @guwave 组件使用指南（AI Skill）安装到 Cursor / Claude Code / Gemini CLI / Codex 等 AI 编程助手中。
 
